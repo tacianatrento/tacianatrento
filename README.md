@@ -1,5 +1,5 @@
 Taciana Trento 15y 
-<!---
-tacianatrento/tacianatrento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu endereço de Email; tacianatrento@email.com.br
+Taciana.trento@escola.pr.gov.br
+Estudante do Colegio Estadual Ludovica Safraider 
+
